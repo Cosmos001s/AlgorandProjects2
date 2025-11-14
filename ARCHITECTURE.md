@@ -2,7 +2,7 @@
 StreamFi — Detailed Architecture and Build Instructions
 
 > Diagram (place near the top of this file):  
-> `![StreamFi Architecture](frontend/assets/image.png)`
+> `![StreamFi Architecture](frontend/assets/ARB.png)`
 
 ---
 
