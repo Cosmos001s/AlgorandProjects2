@@ -232,7 +232,7 @@ Below are the live outputs from the running StreamFi system on Algorand TestNet.
 
 
 ### 5. Salary Claim Transaction (Pera Explorer)
-you can check here --> https://testnet.explorer.perawallet.app/asset/749531304/
+you can check here(in Transactions) --> https://testnet.explorer.perawallet.app/asset/749531304/
 
 <img width="1861" height="587" alt="image" src="https://github.com/user-attachments/assets/25792d97-bef1-4363-b3a6-08253b2c5f8d" />
 
