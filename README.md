@@ -211,3 +211,30 @@ For a detailed explanation of the full system architecture, execution flow, API 
 
 This file contains the complete breakdown of how StreamFi is designed and how every component interacts with Algorand TestNet.
 
+## Output Screenshots
+
+Below are the live outputs from the running StreamFi system on Algorand TestNet.
+
+### 1. Home Page with TestNet Badge
+<img width="1882" height="866" alt="image" src="https://github.com/user-attachments/assets/14f7ce65-5569-4fbf-a513-c1e833c7719b" />
+
+
+### 2.  Employee Payment Dashboard (Balance & Claim UI)
+<img width="1876" height="991" alt="image" src="https://github.com/user-attachments/assets/2f920d0f-42bd-4266-982b-d09745aa4ed0" />
+
+
+### 3. Claim Success Notification
+<img width="1892" height="961" alt="image" src="https://github.com/user-attachments/assets/e84225b0-16d7-4e85-bc2b-812dd6aa2bfe" />
+
+
+### 4.  Detailed Asset Transfer View
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/92e0e03d-58f6-403b-a050-8ea784aa6a06" />
+
+
+### 5. Salary Claim Transaction (Pera Explorer)
+<img width="1861" height="587" alt="image" src="https://github.com/user-attachments/assets/25792d97-bef1-4363-b3a6-08253b2c5f8d" />
+
+
+
+For a more detailed and expanded explanation of the architecture, flows, smart contract logic, and wallet behavior,  
+**refer to the full documentation in `ARCHITECTURE.md`.**
