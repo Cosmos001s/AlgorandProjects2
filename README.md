@@ -230,12 +230,11 @@ Below are the live outputs from the running StreamFi system on Algorand TestNet.
 ### 4.  Detailed Asset Transfer View
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/92e0e03d-58f6-403b-a050-8ea784aa6a06" />
 
-you can check here --> https://testnet.explorer.perawallet.app/asset/749531304/
-
 
 ### 5. Salary Claim Transaction (Pera Explorer)
-<img width="1861" height="587" alt="image" src="https://github.com/user-attachments/assets/25792d97-bef1-4363-b3a6-08253b2c5f8d" />
+you can check here --> https://testnet.explorer.perawallet.app/asset/749531304/
 
+<img width="1861" height="587" alt="image" src="https://github.com/user-attachments/assets/25792d97-bef1-4363-b3a6-08253b2c5f8d" />
 
 
 For a more detailed and expanded explanation of the architecture, flows, smart contract logic, and wallet behavior,  
